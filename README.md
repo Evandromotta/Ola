@@ -3,4 +3,4 @@
 
  Criado durante aula ao vivo
  
- Linha criado pelo site do GitHub
+ Linha criada pelo site do GitHub
